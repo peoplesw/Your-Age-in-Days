@@ -1,0 +1,48 @@
+body {
+  background-color: #FBFAF7;
+}
+
+h2 {
+    margin: 10px 0px;
+    color: black;
+}
+
+button.Click-Me {
+    background-color: lightblue;
+}
+
+.main {
+    display:flex;
+    justify-content: center;
+}
+
+.game-container {
+    border: 1px solid black;
+    margin: 20px;
+    width: 510px;
+}
+
+.title-container {
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+
+.button-container {
+    margin: 15px 0px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.result-container-class {
+    padding: 50px 0px;
+    border-top: 1px solid black;
+    background-color: #d4edda;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: #155724;
+}
